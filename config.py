@@ -1,9 +1,9 @@
 
 
-TOKEN = '5438675849:AAEYXHW6BZdMiajnbd7TqC9-pFJ7IU99LI4'
+TOKEN = ''
 
 
-ROWKEYS = 3
+
 STARTMSG = "Hi, i am translator bot. I use python and google API. "
 CHOOSEMSG = "Choose language"
 
